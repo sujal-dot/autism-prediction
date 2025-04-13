@@ -1,6 +1,6 @@
 import requests
 import streamlit as st
-        import os
+import os
 from PIL import Image
 from PIL import Image
 
