@@ -15,7 +15,7 @@ with st.container():
         Autism spectrum disorder (ASD) is a developmental disability caused by differences in the brain. People with ASD often have problems with social communication and interaction, and restricted or repetitive behaviors or interests. People with ASD may also have different ways of learning, moving, or paying attention.
         """)
     with col2:
-        img1=Image.open("image/asd_child.jpg")
+        img1=Image.open("../image/asd_child.jpg")
         st.image(img1,width=300)
 
 
